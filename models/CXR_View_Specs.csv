@@ -1,0 +1,4 @@
+#CXR View Selector for automatic QC of CXR Images. Planning to test whether unpredictable CXRs are just poor quality images.
+,Model_Name,Dataset,Batch_Size,Epochs,MixUp,Architecture,Target,LR,Bootstrap,Two_Phase,Data_Augs,Segmentation_Model,Image_Size,Train_Metric,Tune_Metric,Normalize,Num_Classes
+0,CXR_View_Predictor,/mnt/md0/vraghu/Pretraining/All_Pretraining_Data.csv,16.0,10.0,1.0,densenet121,View,0.00032555729763716207,0.0,0.0,3.4151651855758027,0.0,320.0,0.026944231241941452,0.02730380930006504,1.0,3.0
+# Completed Training: 02_08_2022
