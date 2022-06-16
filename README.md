@@ -46,6 +46,6 @@ mogrify -path destination_for_NLST_pngs -trim +repage -colorspace RGB -auto-leve
 ```
 
 ## Acknowledgements
-I thank the NCI and ACRIN for access to trial data, as well as the PLCO and NLST participants for their contribution to research. I would also like to thank the fastai and Pytorch communities as well as the National Academy of Medicine for their support of this work. A GPU used for this research was donated as an unrestricted gift through the Nvidia Corporation Academic Program. The statements contained herein are mine alone and do not represent or imply concurrence or endorsements by the above individuals or organizations.
+I thank Stanford, NIH, Hospital de Universidad San Juan, and physionet.org/MIT for their support and access to these datasets. I would also like to thank the fastai and Pytorch communities as well as the National Academy of Medicine for their support of this work. A GPU used for this research was donated as an unrestricted gift through the Nvidia Corporation Academic Program. The statements contained herein are mine alone and do not represent or imply concurrence or endorsements by the above individuals or organizations.
 
 
